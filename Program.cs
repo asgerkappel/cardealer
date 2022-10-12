@@ -1,7 +1,4 @@
-heejkbgskjfhs
-s
-g
-sg
-sg
-s
-gesgesges
+class car
+{
+    public List<Door>
+}
